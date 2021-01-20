@@ -22,4 +22,4 @@ software engineering techniques including:
 
 Each of the techniques will be learned through work on a real project. 
 
-[Draft Syllabus](https://github.com/cs540-21/news/news/blob/master/ee.pdf)
+[Draft Syllabus](https://github.com/cs540-21/news/blob/master/ee.pdf)
