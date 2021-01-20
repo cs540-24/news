@@ -1,9 +1,7 @@
 # Class 1: Monday Jan 13
 
    - Please create github ID and and send it to me so that I can add you to the class
-   - Please let me know which days would work best for you: I hope to have class only once a week, for example on Wed if you can stay for two hours on that day
-   
-# No class on Jan and 10!
+
 
 # Syllabus and News for CS594/690: Advanced Software Engineering
 
