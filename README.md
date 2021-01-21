@@ -1,8 +1,8 @@
 # Class 1: Monday Jan 13
 
-   - Please create github ID and and send it to me so that I can add you to the class
-
-
+   - Please fill a form at https://github.com/woc-hack/tutorial
+   - Please describe who you are, your interests, and what you expect from the class and submit it as a file yournetid.md in a pull request to repo CS540-21/students  
+    
 # Syllabus and News for CS594/690: Advanced Software Engineering
 
 * **Course:** [COSCS-540]
