@@ -5,8 +5,11 @@
     
 # Syllabus and News for CS594/690: Advanced Software Engineering
 
+
+
 * **Course:** [COSCS-540]
-* **  09:50AM-11:05AM  online Zoom bridge 276-644-8345 **
+* **  09:50AM-11:05AM  online Zoom bridge 276-644-8345 ** 
+** [recordings](https://drive.google.com/drive/folders/1kHFoBILuIrRmkO38cVcyhsA0oDtq6XxJ?usp=sharing)
 * **Instructor:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu) office hours - on request
 
 
