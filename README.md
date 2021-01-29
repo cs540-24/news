@@ -1,25 +1,4 @@
-# Big Data Task 
-   - determine if a specific package/include/import is implemented in at least one file in the repository
-       - C/C++
-       - PHP
-       - TypeScript
-       - Sql
-       - Ruby
-       - Rust
-       - R
-       - Swift
-       - Perl
-       - Go
-       - Lisp
-       - Kotlin
-       - Lua
-       - Scala
-       - Dart
-       - Fortran
-       - Basic
-       - Clojure
-       - Erlang
-       - Julia
+
        
 # Class 2: 
    - Please accept invite to the cs540-21 org on github
