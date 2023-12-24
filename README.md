@@ -19,7 +19,7 @@
 
 * **Course:** [COSCS-540]
 * ** MWF 11:30AM-12:20 mk524 and online Zoom bridge 276-644-8345 ** 
-** [recordings](https://drive.google.com/drive/folders/)
+** [recordings](https://drive.google.com/drive/folders/1LK44Vwb6EotYQtZdYa-Wr-NpjT81XHHY?usp=sharing)
 * **Instructor:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu) office hours - on request
 
 The primary purpose of the course is to learn-by-doing advanced
