@@ -1,6 +1,6 @@
 
        
-# Class 2: 
+# Class 2 Jan 29: 
    - Please accept invite to the cs540-24 org on github
    - If you have not done so register at https://github.com/woc-hack/tutorial
    - Also, please get login at formerly known ACF (https://www.nics.utk.edu/account-requests)
