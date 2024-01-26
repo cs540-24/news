@@ -31,3 +31,7 @@ software engineering techniques including:
 
 Each of the techniques will be learned through work on a real project. 
 
+Tthree outcomes for this class: 
+- present an existing research paper on any SE topic (prepared with a team)
+- produce and present an innovative software project (a tool, paper, dataset as an outcome) also prepared with a team
+- complete a set of tasks 
