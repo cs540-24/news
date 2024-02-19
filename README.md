@@ -1,3 +1,12 @@
+# Mar 6
+ - Data-driven Software Security: Models and Methods
+ - https://arxiv.org/pdf/2305.18279.pdf
+ - Twitter
+
+# Feb 19
+
+- "Prototype software assurance framework (SAF): Introduction and overview February 19
+
 
        
 # Class 2 Jan 29: 
