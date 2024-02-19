@@ -5,8 +5,8 @@
 
 # Feb 19
 
-- "Prototype software assurance framework (SAF): Introduction and overview February 19
-
+- Prototype software assurance framework (SAF): Introduction and overview
+- Selecting projects
 
        
 # Class 2 Jan 29: 
