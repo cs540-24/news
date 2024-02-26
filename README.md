@@ -1,5 +1,6 @@
 # March 20
  - ChaosMonkey
+ - LLM Clone Survey
 
 # March 18 
  - netflixRecommenders.pdf
@@ -24,8 +25,7 @@
  - BigDataPerspectives.pdf
     
 # Feb 28
- - BigDataPipeline.pdf
- - LLM Clone Survey
+ - BigDataPipeline
  - When_Code_Completion_Fails_A_Case_Study_on_Real-World_Completions
  - VCSBigData
  - https://arxiv.org/pdf/2301.09043.pdf
