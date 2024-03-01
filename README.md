@@ -1,6 +1,7 @@
 # March 20
  - ChaosMonkey
  - LLM Clone Survey
+ - DevOps
 
 # March 18 
  - netflixRecommenders.pdf
