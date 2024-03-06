@@ -1,4 +1,6 @@
 # March 25
+ - CCTest
+ - ThetaNetworks.pdf
  - BigDataPerspectives.pdf
 
 # March 20
@@ -18,8 +20,6 @@
  - Data-driven Software Security: Models and Methods
  - https://arxiv.org/pdf/2305.18279.pdf
  - Twitter
- - CCTest
- - ThetaNetworks.pdf
    
 # March 4
  - SkillSpace
