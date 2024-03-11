@@ -1,7 +1,12 @@
+# March 27
+ - facebookNews.pdf
+ 
+
 # March 25
  - CCTest
  - ThetaNetworks.pdf
  - BigDataPerspectives.pdf
+ - A ConvNet for the 2020s (https://github.com/cs540-24/papers/blob/master/ConvNet_2020s.pdf)
 
 # March 20
  - ChaosMonkey
