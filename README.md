@@ -1,7 +1,10 @@
+# Apr 3
+ - Semantic Web Applications
+   
 # March 27
  - facebookNews.pdf
  - BigDataVideo
- 
+ - BigDataPipeline.pdf
 
 # March 25
  - CCTest
@@ -13,7 +16,7 @@
  - ChaosMonkey
  - LLM Clone Survey
  - DevOps
- - BigDataPipelineB
+ 
  
 # March 18 
  - netflixRecommenders.pdf
