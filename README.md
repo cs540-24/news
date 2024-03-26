@@ -5,6 +5,7 @@
  - facebookNews.pdf
  - BigDataVideo
  - BigDataPipeline.pdf
+ - Start 2min scrum-like updates on class projects 
 
 # March 25
  - CCTest
