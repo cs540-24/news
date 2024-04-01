@@ -1,5 +1,13 @@
+
+
+# Apr 5
+ - Licence assignment is due 
+
 # Apr 3
  - Semantic Web Applications
+
+# Apr 1 
+ - updates
    
 # March 27
  - facebookNews.pdf
