@@ -5,6 +5,7 @@
 
 # Apr 3
  - Semantic Web Applications
+ - Project updates (termi-view, detecting-covid-related-topics, Chatbot_International-Students, optimized-code-llms, canvas-api-discord-bot, CVE-Identification)
 
 # Apr 1 
  - updates
