@@ -1,3 +1,15 @@
+# Final report
+ - weight: 35% of the total grade (project presentation is 10%, paper presentation 25%: the rest is for the assignments)
+ - Due: May 14 
+ - Format: 4-6 pages in [overleaf template](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sigplan-proceedings-template/rfvsrhgmghtc)
+ - Evaluation criteria: 
+   - Soundness: The extent to which the paper’s contributions and/or innovations address its research questions and are supported by rigorous application of appropriate research methods
+   - Significance: The extent to which the paper’s contributions can impact the field of software engineering, and under which assumptions (if any)
+   - Novelty: The extent to which the contributions are sufficiently original with respect to the state-of-the-art
+   - Verifiability and Transparency: The extent to which the paper includes sufficient information to understand how an innovation works; to understand how data was obtained, analyzed, and interpreted; and how the paper supports independent verification or replication of the paper’s claimed contributions
+   - Presentation: The extent to which the paper’s quality of writing meets the high standards of ICSE, including clear descriptions, as well as adequate use of the English language, absence of major ambiguity, clearly readable figures and tables, and adherence to the formatting instructions provided below.
+   - If more than one person: explain contributions of each author
+
 # May 6 (Final presentations)
   - Chatbot
   - Covid
