@@ -1,4 +1,9 @@
+# May 6 (Final presentations)
+  - Chatbot
+  - Covid
 
+# Apr 10, 12, 15, 17, 19
+  - work on final projects
 
 # Apr 5
  - Licence assignment is due 
