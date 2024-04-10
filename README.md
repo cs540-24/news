@@ -13,6 +13,11 @@
 # May 6 (Final presentations)
   - Chatbot
   - Covid
+  - TermiView
+
+# May 3
+  - Commits Fixing Vulnerabilities
+  - 
 
 # Apr 10, 12, 15, 17, 19
   - work on final projects
