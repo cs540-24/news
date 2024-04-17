@@ -14,10 +14,14 @@
   - Chatbot
   - Covid
   - TermiView
+  - Verification Workflow For Neuromorphic Digital Hardware On FPGAs
+  - CVE Identification
 
 # May 3
   - Commits Fixing Vulnerabilities
-  - 
+    
+# Apr 24
+  - Optimizing Code Using LLMs
 
 # Apr 10, 12, 15, 17, 19
   - work on final projects
