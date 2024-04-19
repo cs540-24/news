@@ -21,7 +21,7 @@
   - Commits Fixing Vulnerabilities
   - Explore Seurat: an R package used to analyze single-cell data
     
-# Apr 24
+# Apr 29
   - Optimizing Code Using LLMs
 
 # Apr 10, 12, 15, 17, 19
