@@ -10,22 +10,23 @@
    - Presentation: The extent to which the paper’s quality of writing meets the high standards of ICSE, including clear descriptions, as well as adequate use of the English language, absence of major ambiguity, clearly readable figures and tables, and adherence to the formatting instructions provided below.
    - If more than one person: explain contributions of each author
 
-# May 6 (Final presentations)
+# May 6 (Final presentations: full)
   - Chatbot
   - Covid
   - TermiView
   - Verification Workflow For Neuromorphic Digital Hardware On FPGAs
 
-# May 3
+# May 3 (Final presentations: one slot available)
   - Commits Fixing Vulnerabilities
   - Explore Seurat: an R package used to analyze single-cell data
   - DocuMint
 
-# May 1
+# May 1 (Final presentations: three slots available)
   - CVE Identification
     
-# Apr 29
+# Apr 29 (Final presentations: three slots available)
   - Optimizing Code Using LLMs
+
 
 # Apr 22
   - Introducing the final assignment on projects citing publications
