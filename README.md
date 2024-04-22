@@ -7,7 +7,7 @@
    - Significance: The extent to which the paper’s contributions can impact the field of software engineering, and under which assumptions (if any)
    - Novelty: The extent to which the contributions are sufficiently original with respect to the state-of-the-art
    - Verifiability and Transparency: The extent to which the paper includes sufficient information to understand how an innovation works; to understand how data was obtained, analyzed, and interpreted; and how the paper supports independent verification or replication of the paper’s claimed contributions
-   - Presentation: The extent to which the paper’s quality of writing meets the high standards of ICSE, including clear descriptions, as well as adequate use of the English language, absence of major ambiguity, clearly readable figures and tables, and adherence to the formatting instructions provided below.
+   - Presentation: clear descriptions, as well as adequate use of the English language, absence of major ambiguity, and clearly readable figures and tables.
    - If more than one person: explain contributions of each author
 
 # May 6 (Final presentations: full)
