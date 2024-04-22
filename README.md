@@ -24,6 +24,9 @@
 # Apr 29
   - Optimizing Code Using LLMs
 
+# Apr 22
+  - Introducing the final assignment on projects citing publications
+
 # Apr 10, 12, 15, 17, 19
   - work on final projects
 
