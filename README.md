@@ -10,7 +10,7 @@
    - Presentation: clear descriptions, as well as adequate use of the English language, absence of major ambiguity, and clearly readable figures and tables.
    - If more than one person: explain contributions of each author
 
-# Seconf (citation) assignment
+# Second (citation) assignment
   - Due May 14
 
 # May 6 (Final presentations: full)
