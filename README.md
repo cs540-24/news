@@ -1,6 +1,6 @@
 # Final report
- - weight: 35% of the total grade (project presentation is 10%, paper presentation 25%: the rest is for the assignments)
  - Due: May 14 
+ - weight: 35% of the total grade (project presentation is 10%, paper presentation 25%: the rest is for the assignments)
  - Format: 4-6 pages in [overleaf template](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sigplan-proceedings-template/rfvsrhgmghtc)
  - Evaluation criteria: 
    - Soundness: The extent to which the paper’s contributions and/or innovations address its research questions and are supported by rigorous application of appropriate research methods
@@ -9,6 +9,9 @@
    - Verifiability and Transparency: The extent to which the paper includes sufficient information to understand how an innovation works; to understand how data was obtained, analyzed, and interpreted; and how the paper supports independent verification or replication of the paper’s claimed contributions
    - Presentation: clear descriptions, as well as adequate use of the English language, absence of major ambiguity, and clearly readable figures and tables.
    - If more than one person: explain contributions of each author
+
+# Seconf (citation) assignment
+  - Due May 14
 
 # May 6 (Final presentations: full)
   - Chatbot
