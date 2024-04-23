@@ -16,13 +16,17 @@
   - TermiView
   - Verification Workflow For Neuromorphic Digital Hardware On FPGAs
 
-# May 3 (Final presentations: one slot available)
+# May 3 (Final presentations: full)
   - Commits Fixing Vulnerabilities
   - Explore Seurat: an R package used to analyze single-cell data
   - DocuMint
+  - Phishing Detector
 
-# May 1 (Final presentations: three slots available)
+# May 1 (Final presentations: full)
   - CVE Identification
+  - World of Code Storage Architecture Upgrade
+  - ISAAC cluster job and storage reporting
+  - ALGORITHM-VISUALIZER
     
 # Apr 29 (Final presentations: three slots available)
   - Optimizing Code Using LLMs
