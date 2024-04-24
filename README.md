@@ -18,6 +18,7 @@
   - Covid
   - TermiView
   - Verification Workflow For Neuromorphic Digital Hardware On FPGAs
+  - Signed Commits
 
 # May 3 (Final presentations: full)
   - Commits Fixing Vulnerabilities
@@ -31,8 +32,11 @@
   - ISAAC cluster job and storage reporting
   - ALGORITHM-VISUALIZER
     
-# Apr 29 (Final presentations: three slots available)
+# Apr 29 (Final presentations: full)
   - Optimizing Code Using LLMs
+  - Deceptive-Review-Detection
+  - Project-Manager
+  - Style-analysis
 
 
 # Apr 22
