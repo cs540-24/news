@@ -25,6 +25,7 @@
   - Explore Seurat: an R package used to analyze single-cell data
   - DocuMint
   - Phishing Detector
+  - canvas-api-discord-bot
 
 # May 1 (Final presentations: full)
   - CVE Identification
