@@ -19,6 +19,7 @@
   - TermiView
   - Verification Workflow For Neuromorphic Digital Hardware On FPGAs
   - Signed Commits
+  - DocBot
 
 # May 3 (Final presentations: full)
   - Commits Fixing Vulnerabilities
