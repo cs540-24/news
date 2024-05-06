@@ -1,3 +1,6 @@
+# Please add your paper presentation to cs540-24/papers
+  - you should have write permission, but create a PR if not
+
 # Final report
  - Due: May 14 
  - weight: 35% of the total grade (project presentation is 10%, paper presentation 25%: the rest is for the assignments)
