@@ -14,6 +14,7 @@
   - Due May 14
 
 # May 6 (Final presentations: full)
+  - Please make sure your presentation is uploaded to you project repo
   - Chatbot
   - Covid
   - TermiView
